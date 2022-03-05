@@ -1,6 +1,10 @@
 package principal;
 import clases.profesor;
-// Clase color, el profesor pregunta a un alumno por un color entre (rojo, amarillo y verde)
+/**
+ *  Clase color, el profesor pregunta a un alumno por un color entre (rojo, amarillo y verde)
+ * @author Aurora Tejada Cordón
+ *
+ */
 public class clasecolor {
 	public static void main(String[] args) {
 		profesor teacher = new profesor();
